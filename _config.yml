@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ifti's Home"
 title_separator          : "-"
 name                     : &name "Junaid Mansur Ifti"
-description              : &description "Software Mechanic \u1F527"
+description              : &description "Software Mechanic 🔧"
 url                      : https://junaidmifti.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junaidmifti/junaidmifti.github.io"
@@ -23,11 +23,12 @@ author:
   # Biographic information
   avatar           : "ifti.png"
   name             : "Junaid Mansur Ifti"
-  pronouns         : "he/him"
+  pronouns         : #
   bio              : "Software Mechanic 🔧"
-  location         : "Bangladesh"
+  location         : "Dhaka, Bangladesh"
   employer         : "IIT, University Of Dhaka"
-  uri              : "http://www.iit.du.ac.bd/"
+  workplace        : "https://company.ding.com/careers/"
+  uri              : #
   email            : "bsse1027@iit.du.ac.bd"
 
   # Academic websites
