@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Get to Know Me 🙌"
+## Get to Know Me 🙌
 
 💡 I’m a dedicated **Software Engineer** with nearly 2 years of experience in **Backend Web Development**, committed to improving **coding** and **problem-solving** skills every day. I graduated with a **Bachelor’s degree in Software Engineering** from the **Institute of Information Technology, University of Dhaka** 🎓,  recognized as the leading institution for Software Engineering in Bangladesh. My interest focuses on applying **AI** to enhance and automate **Software Engineering** tasks, such as **automated smell detection**, **defect prediction**, **code refactoring**, **automated testing** and so on.
 
