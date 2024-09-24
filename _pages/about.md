@@ -11,7 +11,7 @@ redirect_from:
 
 💡 I’m a dedicated **Software Engineer** with nearly 2 years of experience in **Backend Web Development**, committed to improving **coding** and **problem-solving** skills every day. I graduated with a **Bachelor’s degree in Software Engineering** from the **Institute of Information Technology, University of Dhaka** 🎓,  recognized as the leading institution for Software Engineering in Bangladesh. My interest focuses on applying **AI** to enhance and automate **Software Engineering** tasks, such as **automated smell detection**, **defect prediction**, **code refactoring**, **automated testing** and so on.
 
-🔍 Outside my industry and development work, I have collaborated on research, and currently working on a paper about **Automated [Community Smell](https://ar5iv.labs.arxiv.org/html/2209.10671) Detection**. During my academic years 📘, I also worked on research projects and implemented tools based on cutting-edge research papers. This blend of industry and research experience equipped me with the skills to seamlessly bridge theory and practice, which drove my passion for pursuing a **PhD in AI for Software Engineering 🎯**.
+🔍 Outside my industry and development work, I have collaborated on research, and currently working on a paper about **Automated [Community Smell](https://ar5iv.labs.arxiv.org/html/2209.10671) Detection**. During my academic years 📘, I also worked on research projects and implemented tools based on cutting-edge research papers. This blend of industry and research experience equipped me with the skills to seamlessly bridge theory and practice, which drove my passion, for which, **I am actively looking for a PhD position in AI for Software Engineering in Fall '25🎯.**
 
 ---
 
