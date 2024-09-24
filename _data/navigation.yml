@@ -8,21 +8,20 @@ main:
   - title: "Education and Experience"
     url: /edu/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Leadership and Volunteering"
     url: /volunteer/
 
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
+  - title: "Skills & Participation"
+    url: /skills/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Blog Posts"
+#    url: /year-archive/
+#
+#  - title: "Guide"
+#    url: /markdown/

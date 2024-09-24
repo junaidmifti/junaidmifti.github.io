@@ -2,59 +2,85 @@
 layout: archive
 permalink: /edu/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
+# 🎓 **Education** {#education}
 
-* Bachelor of Science in <i>Software Engineering</i><br>
-  <a style= "color:inherit;" href="http://www.iit.du.ac.bd/"> Institute of Information Technology, University Of Dhaka </a><br>
-  <b>CGPA</b> : 3.58 (<b>3.98 in Last 4 Semesters<b>) <br>
-  Notable Courses :
-  * SE 406 : Software Requirements Specification and Analysis
-  * SE 506 : Software Design Patterns
-  * CSE 601 : Distributed Systems
-  * SE 611 : Software Metrics
-  * CSE 604 : Artificial Intelligence
-  * SE 606 : Software Design and Analysis
-  * SE 811 : Software Maintenance
-  * CSE 829 :  Pattern Recognition and Image Processing
-  * CSE 837 : Machine Learning
+### 🎓 **Bachelor of Science in _Software Engineering_**  
+📍 **[Institute of Information Technology, University of Dhaka](http://www.iit.du.ac.bd/)** | 📅 **2018 – 2022**  
+- **CGPA**: 3.58 / 4.00 (*3.98 / 4.00 in the last 4 semesters*)  
+- **Notable Courses**:
+  - SE 406: Software Requirements Specification and Analysis
+  - SE 506: Software Design Patterns
+  - CSE 601: Distributed Systems
+  - SE 611: Software Metrics
+  - SE 612: Software Security
+  - CSE 604: Artificial Intelligence
+  - SE 606: Software Design and Analysis
+  - SE 811: Software Maintenance
+  - CSE 829: Pattern Recognition and Image Processing
+  - CSE 837: Machine Learning
 
-Industry experience
-======
-* <b>Junior Software Engineer</b> <br>
-  💼 : <a style="color:inherit;" href="https://company.ding.com/careers/"> Ding, Ireland</a><br>
-  📅 : May, 2023 - Present <br>
-  🛠️ Technical Skills: 
-    * Web Development : C# (ASP .NET and .NET Core), Jenkins (Groovy)
-    * API Tech-spec and Automated API testing
-    * Code Reviewing
+### 🏫 **Higher Secondary Certificate (Science)**  
+📍 **[Murari Chand College](https://mccollege.edu.bd/)**  
+**Grade**: 5.00 / 5.00 | 📅 **August 2015 – July 2017**
 
-  🛠️ Soft skills:
-  * Multi cultural company setup and diverse communication.
-  * Presiding technical requirement and specification meetings with stake-holders.
-  * Conducting bi-weekly knowledge transfer session
+---
 
-* <b>Intern Software Engineer </b> <br>
-  💼 : <a style="color:inherit;" href="https://research.samsung.com/srbd"> Samsung Research & Development Institute, Bangladesh </a><br>
-  📅 : Jan, 2022 - June, 2022 <br>
-  🛠️ Skills involved: Android Development - Kotlin, Java, JUnit
-    
-  
-  
-Research Experience
-======
-* <b>Research Associate </b> <br>
-    💼: Intelligent Systems and HCI Research Group<br>
-    📅 : June, 2024 - Present <br>
-    🔍 : Currently working on "Automated Community Smell Detection Using In-Context Learning Capabilities of GPT "
+### 🏫 **Secondary School Certificate (Science)**  
+📍 **[Blue Bird High School and College, Sylhet](https://www.bbhsc.edu.bd/)**  
+**Grade**: 5.00 / 5.00 | 📅 **January 2003 – January 2015**
 
-* <b> Mentee </b> <br>
-    💼: <a href="https://dsse.github.io/">Distributed Systems & Software Engineering Research Group</a><br>
-    📅 : June, 2022 - December 2022 <br>
-    🔍 : Supervised by DSSE lead, Dr. Kazi Muheymin for the final undergrad research project of implementing a tool from a conference paper.
+---
+
+# 💼 **Industry Experience** {#industry-experience}
+
+### 🛠️ **Junior Software Engineer**  
+💼 **[Ding, Ireland](https://company.ding.com/careers/)**  
+📅 **May 2023 – Present**  
+
+- **Technical Skills**:  
+  - Web Development: C# (ASP. NET, .NET Core), Jenkins (Groovy), MSSQL, MongoDB
+  - API Technical Specifications and Automated API Testing
+  - Active Code Reviewer
+
+- **Soft Skills**:  
+  - Working in a multicultural setup with diverse communication styles
+  - Led technical requirement and specification meetings with non-technical as well as technical stakeholders
+  - Conducted bi-weekly knowledge transfer sessions
+
+---
+
+### 🛠️ **Intern Software Engineer**  
+💼 **[Samsung Research & Development Institute, Bangladesh](https://research.samsung.com/srbd)**  
+📅 **January 2022 – June 2022**
+
+- **Technical Skills**:  
+  - Android Development: Kotlin, Java, JUnit
+
+- **Details**:  
+  - Completed an academic internship during the 7th semester, carrying 18 credit hours
+  - Achieved **GPA 4.00/4.00** on that semester where evaluation was based on 6 months of company-based performance and two university presentations
+
+---
+
+# 🔍 **Research Experience** {#research-experience}
+
+### 🧑‍🔬 **Research Associate**  
+💼 **Intelligent Systems and HCI Research Group**  
+📅 **June 2024 – Present**  
+
+- **Current Project**: Working on **"Automated Community Smell Detection Using In-Context Learning Capabilities of GPT"**
+
+---
+
+### 🧑‍🏫 **Mentee**  
+💼 **[Distributed Systems & Software Engineering Research Group](https://dsse.github.io/)**  
+📅 **June 2022 – December 2022**  
+
+- **Supervised by**: Dr. Kazi Muheymin (DSSE Lead)  
+- **Project**: Implemented a web application tool from a conference paper as part of the final undergraduate research project.
+
+---
