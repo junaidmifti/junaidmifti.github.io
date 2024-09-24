@@ -11,14 +11,14 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Skills & Participation"
+    url: /skills/
+    
   - title: "Leadership and Volunteering"
     url: /volunteer/
 
 #  - title: "Publications"
 #    url: /publications/
-
-  - title: "Skills & Participation"
-    url: /skills/
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
