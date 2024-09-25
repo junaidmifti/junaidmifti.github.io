@@ -50,8 +50,8 @@ author_profile: true
 
 ## 🔧 **Tool Implementation & Research Projects**
 
-### 🤖 [Automated Community Smell Detection Using In-Context Learning Capabilities of GPT] {#automated-community-smell-detection}
-🧠 **Description**: This research paper will be focused on detecting community smells in large-scale software systems using GPT's in-context learning capabilities. The work is currently ongoing, and further details will be added soon. Stay tuned for updates!
+### 🤖 Automated Community Smell Detection Using In-Context Learning Capabilities of GPT {#automated-community-smell-detection}
+🧠 **Description**: This research paper will be focused on detecting community smells in large-scale software systems using GPT's in-context learning capabilities. We are eventually eyeing to convert it to a tool as a "Community Smell Detector". The work is currently ongoing, and further details will be added soon. Stay tuned for updates!
 
 **Status**: Coming soon...
 
@@ -67,7 +67,7 @@ author_profile: true
 
 ---
 
-### 🛠️ Software Metrics: GQM-Based Research{#software-metrics-gqm-details}
+### 🛠️ Software Metrics: GQM-Based Research {#software-metrics-gqm-details}
 📊 **Description**: A research project titled **"Impact of Physical Health and Daily Habits on Developer Productivity"** using the **Goal Question Metric (GQM)** paradigm to evaluate the effectiveness of various software development processes. This study is based on the GQM methodology first proposed by Victor Basili in his paper *"The GQM Paradigm"*, which is widely used in software metrics research.
 
 🔗 **Links**:  
