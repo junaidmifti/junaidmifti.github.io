@@ -6,16 +6,16 @@
 
 main:
   - title: "Education and Experience"
-    url: /edu/
+    url: edu/
 
   - title: "Projects"
-    url: /projects/
+    url: projects/
 
   - title: "Skills & Participation"
-    url: /skills/
+    url: skills/
     
   - title: "Leadership and Volunteering"
-    url: /volunteer/
+    url: volunteer/
 
 #  - title: "Publications"
 #    url: /publications/
