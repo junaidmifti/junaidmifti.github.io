@@ -23,9 +23,9 @@ author_profile: true
 
 1. 🔧 Tool Implementation & Research Projects
    - [🤖 Automated Community Smell Detection Using In-Context Learning Capabilities of GPT](#automated-community-smell-detection)
-   - [📊 GAnomaly: Anomaly Detection Tool (Rule based + ML)](#ganomaly-anomaly-detection-tool-details)
    - [🛠️ Software Metrics: GQM-Based Research](#software-metrics-gqm-details)
    - [📊 Weather and AQI Correlation (LR)](#weather-and-aqi-correlation-details)
+   - [📊 GAnomaly: Anomaly Detection Tool (Rule based + ML)](#ganomaly-anomaly-detection-tool-details)
    - [🔧 Control Flow Graph and Software Metrics](#control-flow-graph-software-metrics-details)
    - [🔬 A Tool for Commit Classification](#commit-classification-tool-details)
    - [📈 Stock Market Prediction (LR)](#stock-market-prediction-details)
@@ -57,18 +57,8 @@ author_profile: true
 
 ---
 
-### 📊 GAnomaly: Anomaly Detection Tool {#ganomaly-anomaly-detection-tool-details}
-💼 **Description**: A hybrid rule-based and machine learning anomaly detection tool (web app) for Google Analytics traffic. This project references the paper **"“Using google analytics to support cybersecurity forensics" - a paper published in 2017 USA IEEE International Conference on Big Data**.
-
-**Languages/Frameworks**: Python, Flask, Typescript, Pickle
-
-🔗 **Links**:  
-- [📂 View Source Code](https://github.com/bsse1027/SPL-3)
-
----
-
 ### 🛠️ Software Metrics: GQM-Based Research {#software-metrics-gqm-details}
-📊 **Description**: A research project titled **"Impact of Physical Health and Daily Habits on Developer Productivity"** using the **Goal Question Metric (GQM)** paradigm to evaluate the effectiveness of various software development processes. This study is based on the GQM methodology first proposed by Victor Basili in his paper *"The GQM Paradigm"*, which is widely used in software metrics research.
+📊 **Description**: A research project titled **"Impact of Physical Health and Daily Habits on Developer Productivity"** using the **Goal Question Metric (GQM)** paradigm to evaluate the effectiveness of various software development processes. This study is based on the GQM methodology first proposed by Victor Basili in his paper *"The GQM Paradigm"*, which is widely used in software metrics research. The data was taken by questionnaire in google forms, from 48 Software Engineers of different designation in different companies of Bangladesh.
 
 🔗 **Links**:  
 - [📄 View Report](https://github.com/junaidmifti/GQM_Research/blob/main/Final%20Doc.pdf)
@@ -83,6 +73,16 @@ author_profile: true
 🔗 **Links**:  
 - [📂 View Source Code](https://github.com/bsse1027/Weather-and-AQI-dataset-of-Chittagong) 
 | [📄 View Report](https://github.com/junaidmifti/Weather-and-AQI-dataset-of-Chittagong/blob/main/Report_Group_9_%201010_1011_1021_1027.pdf)
+
+---
+
+### 📊 GAnomaly: Anomaly Detection Tool {#ganomaly-anomaly-detection-tool-details}
+💼 **Description**: A hybrid rule-based and machine learning anomaly detection tool (web app) for Google Analytics traffic. This project references the paper **"“Using google analytics to support cybersecurity forensics" - a paper published in 2017 USA IEEE International Conference on Big Data**.
+
+**Languages/Frameworks**: Python, Flask, Typescript, Pickle
+
+🔗 **Links**:  
+- [📂 View Source Code](https://github.com/bsse1027/SPL-3)
 
 ---
 
