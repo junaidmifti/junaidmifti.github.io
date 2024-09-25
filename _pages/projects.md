@@ -51,7 +51,7 @@ author_profile: true
 ## 🔧 **Tool Implementation & Research Projects**
 
 ### 🤖 Automated Community Smell Detection Using In-Context Learning Capabilities of GPT {#automated-community-smell-detection}
-🧠 **Description**: This research paper will be focused on detecting community smells in large-scale software systems using GPT's in-context learning capabilities. We are eventually eyeing to convert it to a tool as a "Community Smell Detector". The work is currently ongoing, and further details will be added soon. Stay tuned for updates!
+🧠 **Description**: This research paper will be focused on detecting community smells in large-scale software companies or setups, using GPT's in-context learning capabilities. We are eventually eyeing to convert it to a tool as a "Community Smell Detector". The work is currently ongoing, and further details will be added soon. Stay tuned for updates!
 
 **Status**: Coming soon...
 
