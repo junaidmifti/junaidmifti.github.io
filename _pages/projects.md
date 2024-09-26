@@ -98,7 +98,7 @@ author_profile: true
 ---
 
 ### 🔬 A Tool for Commit Classification {#commit-classification-tool-details}
-🔧 **Description**: This tool automatically classifies commits based on the content and purpose of the changes, helping streamline the code review process. It builds on research from the paper **"Commit Classification: A New Perspective"**, which examines commit behavior and patterns.
+🔧 **Description**: Implemented a commit classification system based on source code changes and commit messages, categorizing commits into Corrective, Perfective, and Adaptive maintenance activities, as part of a group project inspired by the paper "Boosting Automatic Commit Classification into Maintenance Activities.
 
 **Languages/Frameworks**: Python, Jupyter Notebook
 
