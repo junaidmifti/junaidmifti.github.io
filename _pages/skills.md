@@ -78,7 +78,7 @@ author_profile: true
   **Samsung Software Competency Test (SWC) Advanced** is a rigorous coding assessment that evaluates problem-solving skills. It covers data structures, algorithms, dynamic programming, and graph-based challenges. Successfully passed the test aimed at recruitment for Samsung R&D team.
 
 
-- 🧪 **National Physics Olympiad, Sylhet** – (*2012*)  
+- 🧪 **Bangladesh Physics Olympiad by BDPhO, Sylhet** – (*2012*)  
   *Category*: High School  
   🥇 Achieved **Divisional Medalist** recognition and proceeded to the national round.
  
