@@ -20,6 +20,7 @@ redirect_from:
 - 🔄 **AI/ML in Software Maintenance** (Refactoring, Defect Prediction)
 - 🧠 **AI for HCI in SE** (Community Smell, Developer Behavior, Accessibility)
 - 🏗️ **Automated Software Testing** (AI-Driven Test Case Generation, Automated Test Coverage)
+- 🤖 SE4AI (SRS in AI/ML Projects, System Design for AI/ML)
 
 ---
 ☕ Interested in a virtual coffee chat to explore **AI in Software Engineering** or discuss about latest **cutting-edge Software Engineering Automation**? I’d be delighted to connect and share ideas! Simply drop me an email at [📧](mailto:bsse1027@iit.du.ac.bd), and let's get the conversation started.
