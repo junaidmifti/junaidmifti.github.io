@@ -42,9 +42,10 @@ author_profile: true
 📅 **May 2023 – Present**  
 
 - **Technical Skills**:  
-  - Web Development: C# (ASP. NET, .NET Core), Jenkins (Groovy), MSSQL, MongoDB
-  - API Technical Specifications and Automated API Testing
-  - Active Code Reviewer
+  - Web Development: C# (ASP. NET, .NET Core), Jenkins (Groovy), MSSQL, MongoDB 
+  - Develop and maintain the backend of internal web applications, conduct API technical specifications, integrate 3rd Party recharge and payment APIs to the internal system, and actively participate in code reviews. 
+  - Collaborate in a multicultural environment, lead technical meetings and preside over knowledge transfer sessions for technical and non-technical stakeholders. 
+  - I started mentoring new joiner SWEs during the induction phase, lately.
 
 - **Soft Skills**:  
   - Working in a multicultural setup with diverse communication styles
@@ -69,7 +70,7 @@ author_profile: true
 # 🔍 **Research Experience** {#research-experience}
 
 ### 🧑‍🔬 **Research Associate**  
-💼 **Intelligent Systems and HCI Research Group**  
+💼 **[Intelligent Systems and HCI Research Group, Bangladesh](https://sites.google.com/view/ishci/people?authuser=0)**  
 📅 **June 2024 – Present**  
 
 - **Current Project**: Working on **"Automated Community Smell Detection Using In-Context Learning Capabilities of GPT"**
@@ -77,10 +78,10 @@ author_profile: true
 ---
 
 ### 🧑‍🏫 **Mentee**  
-💼 **[Distributed Systems & Software Engineering Research Group](https://dsse.github.io/)**  
+💼 **[Distributed Systems & Software Engineering Research Group, Dhaka University](https://dsse.github.io/)**  
 📅 **June 2022 – December 2022**  
 
 - **Supervised by**: Dr. Kazi Muheymin (DSSE Lead)  
-- **Project**: Implemented a web application tool from a conference paper as part of the final undergraduate research project.
+- **Project**: Implemented a web application tool based on an IEEE conference paper to detect anomalous web traffic from ”Google Analytics Data” as the final undergraduate research project.
 
 ---
