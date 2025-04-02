@@ -15,6 +15,7 @@ author_profile: true
   - SE 406: Software Requirements Specification and Analysis
   - SE 506: Software Design Patterns
   - CSE 601: Distributed Systems
+  - SE 605: Software Testing and Quality Assurance
   - SE 611: Software Metrics
   - SE 612: Software Security
   - CSE 604: Artificial Intelligence
