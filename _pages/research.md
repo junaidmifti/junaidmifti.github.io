@@ -17,7 +17,8 @@ My research aims to make the software supply chain safer and to understand how f
 
 ### Unveiling Malicious Logic: Towards a Statement-Level Taxonomy and Dataset for Securing Python Packages
 👥 Ahmed Ryan, **Junaid Mansur Ifti**, Akond Ashfaque Ur Rahman, Md Erfan, Md Rayhanur Rahman  
-📰 *Under review at IEEE Transactions on Software Engineering (TSE)* · 📚 6 citations
+📰 *Under review at IEEE Transactions on Software Engineering (TSE)* · 📚 6 citations  
+🔗 [📄 Read the preprint on arXiv](https://arxiv.org/pdf/2512.12559) · [arXiv abstract page](https://arxiv.org/abs/2512.12559)
 
 - Derived a fine-grained taxonomy of **47 malicious indicators** across **370 malicious Python packages**, enabling behavior-centric detection and training of semantic-aware models.
 - Applied **sequential pattern mining** to uncover recurring indicator sequences that characterize common attack workflows, strengthening software supply-chain defenses.

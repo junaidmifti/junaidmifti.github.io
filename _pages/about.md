@@ -12,7 +12,7 @@ redirect_from:
 💡 I’m a **Software Engineer** with 3+ years of industry experience in **backend development**, currently a **Senior Software Engineer at Ding (Ireland)**, where I serve as technical lead and team co-supervisor. I hold a **Bachelor’s degree in Software Engineering** from the **Institute of Information Technology, University of Dhaka** 🎓 (CGPA 3.58/4.00; 3.98/4.00 over the last two years). My research sits where **software security meets AI**: understanding how malicious code behaves in the software supply chain, and evaluating whether **LLMs** can reliably find and fix security problems in real codebases.
 
 🔍 **Research in brief**
-- 📄 **Under review at IEEE Transactions on Software Engineering (TSE):** *“Unveiling Malicious Logic: Towards a Statement-Level Taxonomy and Dataset for Securing Python Packages”* — a taxonomy of **47 malicious indicators** derived from **370 malicious Python packages**, with sequential pattern mining to expose recurring attack workflows.
+- 📄 **Under review at IEEE Transactions on Software Engineering (TSE):** [*“Unveiling Malicious Logic: Towards a Statement-Level Taxonomy and Dataset for Securing Python Packages”*](https://arxiv.org/pdf/2512.12559) — a taxonomy of **47 malicious indicators** derived from **370 malicious Python packages**, with sequential pattern mining to expose recurring attack workflows.
 - 🔐 **Ongoing (sole researcher):** *AutoSecuRe* — security scanners can *find* leaked secrets, but can an AI agent safely *fix* them? I built an autonomous pipeline that moves secrets into a vault and rewrites the code, plus a benchmark to measure how trustworthy different LLMs are at it. Supervised by [Dr. Md Rayhanur Rahman](https://www.ua.edu/) (The University of Alabama). *Unpublished; proof of concept complete, benchmark in progress.*
 - 🧪 Earlier: undergraduate research on ML-based anomaly detection for cybersecurity forensics (GAnomaly) at the DSSE group, University of Dhaka.
 
@@ -31,7 +31,7 @@ This blend of **industry engineering** and **research** lets me bridge theory an
 ---
 
 ### 📌 At a Glance
-- 📄 1 manuscript under review at a top SE journal (IEEE TSE) · 📚 6 citations
+- 📄 1 manuscript under review at a top SE journal (IEEE TSE), [preprint on arXiv](https://arxiv.org/pdf/2512.12559) · 📚 6 citations
 - 🏢 Senior Software Engineer, Ding · lead on third-party integrations and legacy .NET modernization
 - 🗣️ IELTS Academic **8.0** · 🥇 Top 20 of 234 teams, National Cyber Drill CTF
 - 👉 [Research](/research/) · [Experience & Education](/edu/) · [Projects](/projects/) · [CV (PDF)](/files/CV_junaid_mansur_ifti.pdf)
