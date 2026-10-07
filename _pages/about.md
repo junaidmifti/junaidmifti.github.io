@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Welcome! I’m **Junaid Mansur Ifti** — A Software Engineer & AI for SE Enthusiast"
+title: "👋 Welcome! I’m **Junaid Mansur Ifti** — A Software Engineer & Researcher in Software Supply Chain Security and AI for SE"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,19 +9,32 @@ redirect_from:
 
 ## Get to Know Me 🙌
 
-💡 I’m a dedicated **Software Engineer** with nearly 2 years of experience in **Backend Web Development**, committed to improving **coding** and **problem-solving** skills every day. I graduated with a **Bachelor’s degree in Software Engineering** from the **Institute of Information Technology, University of Dhaka** 🎓,  recognized as the leading institution for Software Engineering in Bangladesh. My interest focuses on applying **AI** to enhance and automate **Software Engineering** tasks, such as **automated smell detection**, **defect prediction**, **code refactoring**, **automated testing** and so on.
+💡 I’m a **Software Engineer** with 3+ years of industry experience in **backend development**, currently a **Senior Software Engineer at Ding (Ireland)**, where I serve as technical lead and team co-supervisor. I hold a **Bachelor’s degree in Software Engineering** from the **Institute of Information Technology, University of Dhaka** 🎓 (CGPA 3.58/4.00; 3.98/4.00 over the last two years). My research sits where **software security meets AI**: understanding how malicious code behaves in the software supply chain, and evaluating whether **LLMs** can reliably find and fix security problems in real codebases.
 
-🔍 Outside my industry and development work, I have collaborated on research, and currently working on a paper about **Automated [Community Smell](https://ar5iv.labs.arxiv.org/html/2209.10671) Detection**. During my academic years 📘, I also worked on research projects and implemented tools based on cutting-edge research papers. This blend of industry and research experience equipped me with the skills to seamlessly bridge theory and practice, which drove my passion, for which, **I am actively looking for a PhD position in AI for Software Engineering in Fall '25🎯.**
+🔍 **Research in brief**
+- 📄 **Under review at IEEE Transactions on Software Engineering (TSE):** *“Unveiling Malicious Logic: Towards a Statement-Level Taxonomy and Dataset for Securing Python Packages”* — a taxonomy of **47 malicious indicators** derived from **370 malicious Python packages**, with sequential pattern mining to expose recurring attack workflows.
+- 🔐 **Ongoing (sole researcher):** *AutoSecuRe* — security scanners can *find* leaked secrets, but can an AI agent safely *fix* them? I built an autonomous pipeline that moves secrets into a vault and rewrites the code, plus a benchmark to measure how trustworthy different LLMs are at it. Supervised by [Dr. Md Rayhanur Rahman](https://www.ua.edu/) (The University of Alabama). *Unpublished; proof of concept complete, benchmark in progress.*
+- 🧪 Earlier: undergraduate research on ML-based anomaly detection for cybersecurity forensics (GAnomaly) at the DSSE group, University of Dhaka.
+
+This blend of **industry engineering** and **research** lets me bridge theory and practice, and it is why **I am actively seeking a PhD position starting Fall 2027 🎯** in software security, software supply chain, and AI for Software Engineering.
 
 ---
 
 ### Research Interest Areas:
-- 🌐 **AI for SE** (Automated Software Design, Maintenance, Code Prediction/ Contextual IDE)
-- 🔄 **AI/ML in Software Maintenance** (Refactoring, Defect Prediction)
-- 🧠 **AI for HCI in SE** (Community Smell, Developer Behavior, Accessibility)
-- 🏗️ **Automated Software Testing** (AI-Driven Test Case Generation, Automated Test Coverage)
-- 🤖 SE4AI (SRS in AI/ML Projects, System Design for AI/ML)
+- 🛡️ **Software Supply Chain Security** (malicious package detection, behavior-centric taxonomies, attack-workflow mining)
+- 🤖 **LLMs for Secure Software Engineering** (automated vulnerability and secret remediation, benchmarking, evaluation frameworks)
+- 🌐 **AI for SE** (Automated Software Design, Maintenance, Code Prediction / Contextual IDE)
+- 🔄 **AI/ML in Software Maintenance** (Refactoring, Defect Prediction, Commit Classification)
+- 🧠 **Human & Social Aspects of SE** (Community Smells, Developer Behavior, Productivity)
+- 🏗️ **Automated Software Testing** (AI-Driven Test Generation, Coverage)
 
 ---
-☕ Interested in a virtual coffee chat to explore **AI in Software Engineering** or discuss about latest **cutting-edge Software Engineering Automation**? I’d be delighted to connect and share ideas! Simply drop me an email at [📧](mailto:bsse1027@iit.du.ac.bd), and let's get the conversation started.
-Looking forward to engaging conversations!
+
+### 📌 At a Glance
+- 📄 1 manuscript under review at a top SE journal (IEEE TSE) · 📚 6 citations
+- 🏢 Senior Software Engineer, Ding · lead on third-party integrations and legacy .NET modernization
+- 🗣️ IELTS Academic **8.0** · 🥇 Top 20 of 234 teams, National Cyber Drill CTF
+- 👉 [Research](/research/) · [Experience & Education](/edu/) · [Projects](/projects/) · [CV (PDF)](/files/CV_junaid_mansur_ifti.pdf)
+
+---
+☕ Interested in a virtual chat about **software supply chain security, LLMs for SE**, or prospective collaboration? I’d be delighted to connect — drop me an email at [📧](mailto:bsse1027@iit.du.ac.bd).

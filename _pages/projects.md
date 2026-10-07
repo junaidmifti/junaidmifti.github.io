@@ -22,6 +22,8 @@ author_profile: true
 ## 🗂 **Project Directory**
 
 1. 🔧 Tool Implementation & Research Projects
+   - [🔐 AutoSecuRe: Automated Secret Migration and Benchmarking by LLM](#secret-migration-llm)
+   - [🛡️ Malicious Python Package Taxonomy & Dataset](#malicious-python-taxonomy)
    - [🤖 Automated Community Smell Detection Using In-Context Learning Capabilities of GPT](#automated-community-smell-detection)
    - [🛠️ Software Metrics: GQM-Based Research](#software-metrics-gqm-details)
    - [📊 Weather and AQI Correlation (LR)](#weather-and-aqi-correlation-details)
@@ -49,6 +51,18 @@ author_profile: true
 ---
 
 ## 🔧 **Tool Implementation & Research Projects**
+
+### 🔐 AutoSecuRe: Automated Secret Migration and Benchmarking by LLM {#secret-migration-llm}
+🧠 **Description**: Scanners like Gitleaks tell you *where* a secret leaked, but fixing it (provisioning a vault, rewriting the code, keeping the tests green) is still manual work. AutoSecuRe is an autonomous agent that does the whole job, paired with a benchmark that scores LLMs on whether their fixes are correct, complete and structurally sound. Designed and built end to end as a sole researcher, supervised by Dr. Md Rayhanur Rahman, The University of Alabama.
+
+**Status**: 🚧 Ongoing and unpublished (proof of concept complete; benchmark corpus under construction). See the [Research page](/research/) for details.
+
+---
+
+### 🛡️ Statement-Level Taxonomy and Dataset of Malicious Python Packages {#malicious-python-taxonomy}
+🧠 **Description**: A taxonomy of 47 malicious indicators over 370 malicious Python packages, plus sequential pattern mining of attack workflows. Under review at IEEE TSE.
+
+---
 
 ### 🤖 Automated Community Smell Detection Using In-Context Learning Capabilities of GPT {#automated-community-smell-detection}
 🧠 **Description**: This research paper will be focused on detecting community smells in large-scale software companies or setups, using GPT's in-context learning capabilities. We are eventually eyeing to convert it to a tool as a "Community Smell Detector". The work is currently ongoing, and further details will be added soon. Stay tuned for updates!

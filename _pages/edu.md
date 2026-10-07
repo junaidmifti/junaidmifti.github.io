@@ -10,7 +10,7 @@ author_profile: true
 
 ### 🎓 **Bachelor of Science in _Software Engineering_**  
 📍 **[Institute of Information Technology, University of Dhaka](http://www.iit.du.ac.bd/)** | 📅 **2018 – 2022**  
-- **CGPA**: 3.58 / 4.00 (*3.98 / 4.00 in the last 4 semesters*)  
+- **CGPA**: 3.58 / 4.00 (*3.98 / 4.00 in the last 2 years*)  
 - **Notable Courses**:
   - SE 406: Software Requirements Specification and Analysis
   - SE 506: Software Design Patterns
@@ -38,51 +38,48 @@ author_profile: true
 
 # 💼 **Industry Experience** {#industry-experience}
 
+### 🛠️ **Senior Software Engineer**  
+💼 **[Ding, Ireland](https://company.ding.com/careers/)** (Hybrid-Remote)  
+📅 **August 2026 – Present**  
+
+- Serve as **technical lead and team co-supervisor**, mentoring junior engineers and accelerating engineering output by integrating **AI-assisted coding tools** (e.g., Claude Code) into the development workflow.
+- Lead critical **third-party API integrations**, acting as the primary technical liaison between external suppliers and internal C-level directors.
+- Spearhead cross-functional initiatives to **modernize legacy .NET applications**, **remediate security vulnerabilities**, and maintain **CI/CD pipeline** stability.
+
 ### 🛠️ **Junior Software Engineer**  
-💼 **[Ding, Ireland](https://company.ding.com/careers/)**  
-📅 **May 2023 – Present**  
+💼 **Ding, Ireland**  
+📅 **May 2023 – August 2026**  
 
-- **Technical Skills**:  
-  - Web Development: C# (ASP. NET, .NET Core), Jenkins (Groovy), MSSQL, MongoDB 
-  - Develop and maintain the backend of internal web applications, conduct API technical specifications, integrate 3rd Party recharge and payment APIs to the internal system, and actively participate in code reviews. 
-  - Collaborate in a multicultural environment, lead technical meetings and preside over knowledge transfer sessions for technical and non-technical stakeholders. 
-  - I started mentoring new joiner SWEs during the induction phase, lately.
-
-- **Soft Skills**:  
-  - Working in a multicultural setup with diverse communication styles
-  - Led technical requirement and specification meetings with non-technical as well as technical stakeholders
-  - Conducted bi-weekly knowledge transfer sessions
+- Maintained the backend of internal web applications, developed **RESTful APIs**, and integrated 3rd-party payment APIs (REST/SOAP) into the core web system.
+- Led technical meetings and facilitated knowledge-transfer sessions for technical and non-technical stakeholders in a multicultural environment.
+- **Stack**: C# (ASP.NET, .NET Core), Jenkins (Groovy), MSSQL, MongoDB
 
 ---
 
 ### 🛠️ **Intern Software Engineer**  
-💼 **[Samsung Research & Development Institute, Bangladesh](https://research.samsung.com/srbd)**  
+💼 **[Samsung Research & Development Institute, Bangladesh](https://research.samsung.com/srbd)** (Onsite)  
 📅 **January 2022 – June 2022**
 
-- **Technical Skills**:  
-  - Android Development: Kotlin, Java, JUnit
-
-- **Details**:  
-  - Completed an academic internship during the 7th semester, carrying 18 credit hours
-  - Achieved **GPA 4.00/4.00** on that semester where evaluation was based on 6 months of company-based performance and two university presentations
+- Contributed to the core **Android codebase (100K+ LOC)** using Kotlin and Java, increasing unit test coverage by **40%**.
+- Completed as an academic internship (7th semester, 18 credit hours) with **GPA 4.00/4.00**, evaluated on six months of company performance and two university presentations.
 
 ---
 
 # 🔍 **Research Experience** {#research-experience}
 
-### 🧑‍🔬 **Research Associate**  
-💼 **[Intelligent Systems and HCI Research Group, Bangladesh](https://sites.google.com/view/ishci/people?authuser=0)**  
+See the [Research page](/research/) for full details.
+
+### 🧑‍🔬 **Independent Researcher**  
 📅 **June 2024 – Present**  
 
-- **Current Project**: Working on **"Automated Community Smell Detection Using In-Context Learning Capabilities of GPT"**
+- **AutoSecuRe: Automated Secret Migration and Benchmarking by LLM** (sole researcher; unpublished), supervised by **Dr. Md Rayhanur Rahman** (The University of Alabama): an autonomous agent that detects, vaults and refactors away hard-coded secrets, with a benchmark that measures how reliably different LLMs can do it.
+- **Co-author, under review at IEEE TSE**: statement-level taxonomy (47 indicators, 370 malicious packages) and dataset for securing Python packages.
 
 ---
 
-### 🧑‍🏫 **Mentee**  
-💼 **[Distributed Systems & Software Engineering Research Group, Dhaka University](https://dsse.github.io/)**  
-📅 **June 2022 – December 2022**  
+### 🧑‍🏫 **Undergraduate Researcher**  
+💼 **[Distributed Systems & Software Engineering Research Group, University of Dhaka](https://dsse.github.io/)**  
+📅 **2022**  
 
-- **Supervised by**: Dr. Kazi Muheymin (DSSE Lead)  
-- **Project**: Implemented a web application tool based on an IEEE conference paper to detect anomalous web traffic from ”Google Analytics Data” as the final undergraduate research project.
-
----
+- **Supervised by**: Dr. Kazi Muheymin-Us-Sakib
+- Developed **GAnomaly**, an ML-based web application detecting anomalous web traffic in Google Analytics data, using statistical outlier detection and rule-based algorithms.

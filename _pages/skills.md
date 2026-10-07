@@ -10,14 +10,14 @@ author_profile: true
 ## 💻 **Technical Skills**
 
 - **Programming Languages**:  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white),  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white),![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white),  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white),![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white), ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 - **Frameworks & Technologies**:  
   ![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat&logo=.net&logoColor=white), ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white),![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white), ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas), ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=flat&logo=python&logoColor=white),
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white),![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white),![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white), ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white), ![NUnit](https://img.shields.io/badge/-NUnit-800000?style=flat&logo=nunit&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white),![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white),![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white), ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white), ![NUnit](https://img.shields.io/badge/-NUnit-800000?style=flat&logo=nunit&logoColor=white), ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 
 - **Tools & Platforms**:  
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white), ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white), ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white), ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
@@ -76,6 +76,9 @@ author_profile: true
 - 💻 **Samsung SWC Advance Test** – (*Feb 2023*)  
   *3-hour Algorithmic Problem Solving Test*  
   **Samsung Software Competency Test (SWC) Advanced** is a rigorous coding assessment that evaluates problem-solving skills. It covers data structures, algorithms, dynamic programming, and graph-based challenges. Successfully passed the test aimed at recruitment for Samsung R&D team.
+
+
+- 🎓 **Government Scholarships** – Higher Secondary (*2017*) and Secondary Certificate (*2015*) examinations.
 
 
 - 🧪 **Bangladesh Physics Olympiad by BDPhO, Sylhet** – (*2012*)  
