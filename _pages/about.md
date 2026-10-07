@@ -13,8 +13,8 @@ redirect_from:
 
 🔍 **Research in brief**
 - 📄 **Under review at IEEE Transactions on Software Engineering (TSE):** [*“Unveiling Malicious Logic: Towards a Statement-Level Taxonomy and Dataset for Securing Python Packages”*](https://arxiv.org/pdf/2512.12559) — a taxonomy of **47 malicious indicators** derived from **370 malicious Python packages**, with sequential pattern mining to expose recurring attack workflows.
-- 🔐 **Ongoing (sole researcher):** *AutoSecuRe* — security scanners can *find* leaked secrets, but can an AI agent safely *fix* them? I built an autonomous pipeline that moves secrets into a vault and rewrites the code, plus a benchmark to measure how trustworthy different LLMs are at it. Supervised by [Dr. Md Rayhanur Rahman](https://www.ua.edu/) (The University of Alabama). *Unpublished; proof of concept complete, benchmark in progress.*
-- 🧪 Earlier: undergraduate research on ML-based anomaly detection for cybersecurity forensics (GAnomaly) at the DSSE group, University of Dhaka.
+- 🔐 **Ongoing (sole researcher):** *AutoSecuRe* — security scanners can *find* leaked secrets, but can an AI agent safely *fix* them? I built an autonomous pipeline that moves secrets into a vault and rewrites the code, plus a benchmark to measure how trustworthy different LLMs are at it. Supervised by [Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/) (The University of Alabama). *Unpublished; proof of concept complete, benchmark in progress.*
+- 🧪 Earlier: undergraduate research on ML-based anomaly detection for cybersecurity forensics (GAnomaly) at the [DSSE group](https://dsse.iit.du.ac.bd/), University of Dhaka.
 
 This blend of **industry engineering** and **research** lets me bridge theory and practice, and it is why **I am actively seeking a PhD position starting Fall 2027 🎯** in software security, software supply chain, and AI for Software Engineering.
 

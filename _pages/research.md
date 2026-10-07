@@ -16,7 +16,7 @@ My research aims to make the software supply chain safer and to understand how f
 ## 📄 **Publications under Review**
 
 ### Unveiling Malicious Logic: Towards a Statement-Level Taxonomy and Dataset for Securing Python Packages
-👥 Ahmed Ryan, **Junaid Mansur Ifti**, Akond Ashfaque Ur Rahman, Md Erfan, Md Rayhanur Rahman  
+👥 Ahmed Ryan, **Junaid Mansur Ifti**, Akond Ashfaque Ur Rahman, Md Erfan, [Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/)  
 📰 *Under review at IEEE Transactions on Software Engineering (TSE)* · 📚 6 citations  
 🔗 [📄 Read the preprint on arXiv](https://arxiv.org/pdf/2512.12559) · [arXiv abstract page](https://arxiv.org/abs/2512.12559)
 
@@ -30,7 +30,7 @@ My research aims to make the software supply chain safer and to understand how f
 ### AutoSecuRe: Can an AI Agent Safely Fix Leaked Secrets?
 *Automated Secret Migration and Benchmarking by LLM*  
 📅 **June 2024 – Present** · 🔬 **Sole researcher**, designed and built from scratch · 🚧 *Unpublished, in progress*  
-👨‍🏫 Supervised by **Dr. Md Rayhanur Rahman**, The University of Alabama
+👨‍🏫 Supervised by **[Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/)**, The University of Alabama
 
 > **The question:** Security scanners can tell you *where* an API key or token leaked. They cannot fix it. If we hand that job to an LLM agent, how much should we trust the result?
 
@@ -53,7 +53,7 @@ My research aims to make the software supply chain safer and to understand how f
 ## 🎓 **Earlier Research**
 
 ### GAnomaly: ML-based Anomaly Detection for Google Analytics Traffic
-📅 **2022** · Undergraduate Researcher, Distributed Systems & Software Engineering Research Group, University of Dhaka  
+📅 **2022** · Undergraduate Researcher, [Distributed Systems & Software Engineering Research Group](https://dsse.iit.du.ac.bd/), University of Dhaka  
 👨‍🏫 Supervised by **Dr. Kazi Muheymin-Us-Sakib**
 
 - Built an ML-based web application combining statistical outlier detection and rule-based algorithms, based on the IEEE paper *“Using Google Analytics to Support Cybersecurity Forensics.”*
@@ -65,4 +65,4 @@ Goal–Question–Metric study with 48 software engineers in Bangladesh. [📄 R
 ---
 
 ## 🤝 **References**
-Available on request; listed on my [CV](/files/CV_junaid_mansur_ifti.pdf): Dr. Md Rayhanur Rahman (The University of Alabama), Dr. Kazi Muheymin-Us-Sakib and Dr. B M Mainul Hossain (University of Dhaka).
+Available on request; listed on my [CV](/files/CV_junaid_mansur_ifti.pdf): [Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/) (The University of Alabama), Dr. Kazi Muheymin-Us-Sakib and Dr. B M Mainul Hossain (University of Dhaka).

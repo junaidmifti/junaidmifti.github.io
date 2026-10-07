@@ -53,7 +53,7 @@ author_profile: true
 ## 🔧 **Tool Implementation & Research Projects**
 
 ### 🔐 AutoSecuRe: Automated Secret Migration and Benchmarking by LLM {#secret-migration-llm}
-🧠 **Description**: Scanners like Gitleaks tell you *where* a secret leaked, but fixing it (provisioning a vault, rewriting the code, keeping the tests green) is still manual work. AutoSecuRe is an autonomous agent that does the whole job, paired with a benchmark that scores LLMs on whether their fixes are correct, complete and structurally sound. Designed and built end to end as a sole researcher, supervised by Dr. Md Rayhanur Rahman, The University of Alabama.
+🧠 **Description**: Scanners like Gitleaks tell you *where* a secret leaked, but fixing it (provisioning a vault, rewriting the code, keeping the tests green) is still manual work. AutoSecuRe is an autonomous agent that does the whole job, paired with a benchmark that scores LLMs on whether their fixes are correct, complete and structurally sound. Designed and built end to end as a sole researcher, supervised by [Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/), The University of Alabama.
 
 **Status**: 🚧 Ongoing and unpublished (proof of concept complete; benchmark corpus under construction). See the [Research page](/research/) for details.
 
