@@ -31,7 +31,7 @@ This blend of **industry engineering** and **research** lets me bridge theory an
 ---
 
 ### 📌 At a Glance
-- 📄 1 manuscript under review at a top SE journal (IEEE TSE), [preprint on arXiv](https://arxiv.org/pdf/2512.12559) · 📚 6 citations
+- 📄 1 manuscript under review at a top SE journal (IEEE TSE), [preprint on arXiv](https://arxiv.org/pdf/2512.12559)
 - 🏢 Senior Software Engineer, Ding · lead on third-party integrations and legacy .NET modernization
 - 🗣️ IELTS Academic **8.0** · 🥇 Top 20 of 234 teams, National Cyber Drill CTF
 - 👉 [Research](/research/) · [Experience & Education](/edu/) · [Projects](/projects/) · [CV (PDF)](/files/CV_junaid_mansur_ifti.pdf)
