@@ -15,13 +15,17 @@ My research aims to make the software supply chain safer and to understand how f
 
 ## 📄 **Publications under Review**
 
-### Unveiling Malicious Logic: Towards a Statement-Level Taxonomy and Dataset for Securing Python Packages
-👥 Ahmed Ryan, **Junaid Mansur Ifti**, Akond Ashfaque Ur Rahman, Md Erfan, [Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/)  
+### Between the Lines: A Statement-Level Annotated Dataset and Behavioral Taxonomy for Malicious Python Packages
+👥 Ahmed Ryan, **Junaid Mansur Ifti**, Md Erfan, Akond Ashfaque Ur Rahman, [Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/)  
 📰 *Under review at IEEE Transactions on Software Engineering (TSE)* · 📚 6 citations  
 🔗 [📄 Read the preprint on arXiv](https://arxiv.org/pdf/2512.12559) · [arXiv abstract page](https://arxiv.org/abs/2512.12559)
 
-- Derived a fine-grained taxonomy of **47 malicious indicators** across **370 malicious Python packages**, enabling behavior-centric detection and training of semantic-aware models.
-- Applied **sequential pattern mining** to uncover recurring indicator sequences that characterize common attack workflows, strengthening software supply-chain defenses.
+Existing malicious-package datasets only say *whether* a package is malicious, not *which statements* make it so. This work shifts analysis from binary classification to explainable, behavior-centric detection.
+
+- **Dataset:** statement-level annotations for **370 malicious Python packages** (833 files, 90,527 lines of code) with **2,962 labeled occurrences** of malicious behavior.
+- **Taxonomy:** **47 malicious indicators across 7 types** (e.g., execution, exfiltration, defense evasion, network operations).
+- **LLM detection:** injecting the taxonomy into prompts improves detection **precision by 9% on average**, which directly reduces false positives.
+- **Attack workflows:** **sequential pattern mining** reveals recurring indicator sequences that characterize common attack chains, giving heuristics for supply-chain defenses.
 
 ---
 

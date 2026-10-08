@@ -60,7 +60,7 @@ author_profile: true
 ---
 
 ### 🛡️ Statement-Level Taxonomy and Dataset of Malicious Python Packages {#malicious-python-taxonomy}
-🧠 **Description**: A taxonomy of 47 malicious indicators over 370 malicious Python packages, plus sequential pattern mining of attack workflows. Under review at IEEE TSE.
+🧠 **Description**: A statement-level annotated dataset of 370 malicious Python packages (2,962 labeled occurrences), a 47-indicator behavioral taxonomy, taxonomy-guided LLM prompting that improves detection precision by 9% on average, and sequential pattern mining of attack workflows. Under review at IEEE TSE.
 
 🔗 **Links**:  
 - [📄 arXiv Preprint](https://arxiv.org/pdf/2512.12559)
