@@ -17,7 +17,7 @@ My research aims to automate more of software engineering with AI, and to unders
 
 ### Between the Lines: A Statement-Level Annotated Dataset and Behavioral Taxonomy for Malicious Python Packages
 👥 Ahmed Ryan, **Junaid Mansur Ifti**, Md Erfan, Akond Ashfaque Ur Rahman, [Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/)  
-📰 *Under review at IEEE Transactions on Software Engineering (TSE)* · 🤝 Collaboration with researchers at **The University of Alabama** and **Auburn University** · 📚 6 citations  
+📅 **2026** · 📰 *Under review at IEEE Transactions on Software Engineering (TSE)* · 🤝 Collaboration with researchers at **The University of Alabama** and **Auburn University** · 📚 6 citations  
 🔗 [📄 Read the preprint on arXiv](https://arxiv.org/pdf/2512.12559) · [arXiv abstract page](https://arxiv.org/abs/2512.12559)
 
 Existing malicious-package datasets only say *whether* a package is malicious, not *which statements* make it so. This work shifts analysis from binary classification to explainable, behavior-centric detection.
@@ -33,7 +33,7 @@ Existing malicious-package datasets only say *whether* a package is malicious, n
 
 ### AutoSecuRe: Can an AI Agent Safely Fix Leaked Secrets?
 *Automated Secret Migration and Benchmarking by LLM*  
-📅 **June 2024 – Present** · 🔬 **Sole researcher**, designed and built from scratch · 🚧 *Unpublished, in progress*  
+📅 **February 2026 – Present** · 🔬 **Sole researcher**, designed and built from scratch · 🚧 *Unpublished, in progress*  
 👨‍🏫 Supervised by **[Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/)**, The University of Alabama
 
 > **The question:** Security scanners can tell you *where* an API key or token leaked. They cannot fix it. If we hand that job to an LLM agent, how much should we trust the result?

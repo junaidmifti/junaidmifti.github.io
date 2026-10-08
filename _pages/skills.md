@@ -33,7 +33,7 @@ author_profile: true
 ## 🎯 **IELTS Score**
 
 - **Overall**: 8.0  
-  **Listening**: 8.5, **Reading**: 7.5, **Writing**: 7.5, **Speaking**: 8.0  
+  **Listening**: 8.5, **Reading**: 8.5, **Writing**: 7.5, **Speaking**: 8.0  
   *Test Date*: 15-Sep-2024, *Test Type*: IELTS Academic
 
 ---
