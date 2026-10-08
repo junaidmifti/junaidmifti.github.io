@@ -69,4 +69,4 @@ Goal–Question–Metric study with 48 software engineers in Bangladesh. [📄 R
 ---
 
 ## 🤝 **References**
-Available on request; listed on my [CV](/files/CV_junaid_mansur_ifti.pdf): [Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/) (The University of Alabama), Dr. Kazi Muheymin-Us-Sakib and Dr. B M Mainul Hossain (University of Dhaka).
+Available on request; listed on my [CV](/files/CV_junaid_mansur_ifti.pdf): [Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/) (The University of Alabama), Dr. Kazi Muheymin-Us-Sakib (Professor and Ex-Director, IIT) and Dr. Ahmedul Kabir (Associate Professor, IIT), University of Dhaka.
