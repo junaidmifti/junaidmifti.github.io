@@ -73,7 +73,7 @@ See the [Research page](/research/) for full details.
 📅 **June 2024 – Present**  
 
 - **AutoSecuRe: Automated Secret Migration and Benchmarking by LLM** (sole researcher; unpublished), supervised by **[Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/)** (The University of Alabama): an autonomous agent that detects, vaults and refactors away hard-coded secrets, with a benchmark that measures how reliably different LLMs can do it.
-- **Co-author, under review at IEEE TSE**: statement-level annotated dataset (370 malicious Python packages) and behavioral taxonomy (47 indicators) ([arXiv preprint](https://arxiv.org/pdf/2512.12559)).
+- **Co-author, under review at IEEE TSE** (with researchers at The University of Alabama and Auburn University): statement-level annotated dataset (370 malicious Python packages) and behavioral taxonomy (47 indicators) ([arXiv preprint](https://arxiv.org/pdf/2512.12559)).
 
 ---
 

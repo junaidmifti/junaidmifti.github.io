@@ -9,7 +9,7 @@ author_profile: true
 
 # 🔬 **Research** {#research}
 
-My research aims to make the software supply chain safer and to understand how far AI can be trusted with security-critical software engineering tasks.
+My research aims to automate more of software engineering with AI, and to understand how far it can be trusted. My current work applies this to software security: making the software supply chain safer and testing LLMs on security-critical tasks. I am keen to extend it to automated testing and other AI-driven SE tasks.
 
 ---
 
@@ -17,7 +17,7 @@ My research aims to make the software supply chain safer and to understand how f
 
 ### Between the Lines: A Statement-Level Annotated Dataset and Behavioral Taxonomy for Malicious Python Packages
 👥 Ahmed Ryan, **Junaid Mansur Ifti**, Md Erfan, Akond Ashfaque Ur Rahman, [Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/)  
-📰 *Under review at IEEE Transactions on Software Engineering (TSE)* · 📚 6 citations  
+📰 *Under review at IEEE Transactions on Software Engineering (TSE)* · 🤝 Collaboration with researchers at **The University of Alabama** and **Auburn University** · 📚 6 citations  
 🔗 [📄 Read the preprint on arXiv](https://arxiv.org/pdf/2512.12559) · [arXiv abstract page](https://arxiv.org/abs/2512.12559)
 
 Existing malicious-package datasets only say *whether* a package is malicious, not *which statements* make it so. This work shifts analysis from binary classification to explainable, behavior-centric detection.
