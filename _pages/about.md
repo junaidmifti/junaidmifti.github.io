@@ -20,16 +20,10 @@ Alongside this, I do research at the intersection of **software security** and *
 
 ## 🔬 Research Highlights
 
-**📄 Under review at IEEE TSE** · with researchers at **The University of Alabama** and **Auburn University**  
-[*Between the Lines: A Statement-Level Annotated Dataset and Behavioral Taxonomy for Malicious Python Packages*](https://arxiv.org/pdf/2512.12559)
-- 370 malicious packages annotated at the statement level (**2,962 labeled occurrences**)
-- A taxonomy of **47 malicious indicators** across 7 types
-- Taxonomy-guided prompting improves LLM detection precision by **9% on average**
+- 📄 **Under review at IEEE TSE** (with researchers at The University of Alabama and Auburn University): a statement-level annotated dataset and behavioral taxonomy for **malicious Python packages**, which improves LLM detection precision by 9% on average.
+- 🔐 **AutoSecuRe** (sole researcher, ongoing): can an AI agent safely *fix* leaked secrets, not just find them? An autonomous remediation pipeline plus a benchmark of LLM trustworthiness.
 
-**🔐 AutoSecuRe** · sole researcher · supervised by [Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/) (The University of Alabama)  
-Scanners can *find* leaked secrets, but can an AI agent safely *fix* them? I built an autonomous remediation pipeline and a benchmark to measure how trustworthy different LLMs are at it. *Unpublished: proof of concept complete, benchmark in progress.*
-
-**🧪 Earlier work** · ML-based anomaly detection for cybersecurity forensics at the [DSSE group](https://dsse.iit.du.ac.bd/), University of Dhaka.
+👉 **[Full research details, paper and preprint](/research/)** · **[Projects](/projects/)** · **[Experience & Education](/edu/)**
 
 ---
 
@@ -48,10 +42,8 @@ Scanners can *find* leaked secrets, but can an AI agent safely *fix* them? I bui
 | 🏢 **Now** | **Senior Software Engineer, Ding** (Aug 2026 – present): technical lead and team co-supervisor, mentoring, third-party integrations, legacy .NET modernization |
 | 🛠️ **Experience** | 3+ years in industry (Junior SWE May 2023 – Aug 2026), plus a Samsung R&D internship |
 | 🎓 **Education** | B.Sc. Software Engineering, University of Dhaka |
-| 📄 **Publication** | 1 manuscript under review at IEEE TSE ([arXiv](https://arxiv.org/pdf/2512.12559)) |
+| 📄 **Publication** | 1 manuscript under review at IEEE TSE |
 | 🗣️ **IELTS** | 8.0 overall (Academic) |
 | 🥇 **Competition** | Top 20 of 234 teams, National Cyber Drill CTF |
-
-👉 [Experience & Education](/edu/) · [Projects](/projects/) · [Skills](/skills/)
 
 ☕ Happy to chat about **software security, AI for SE, automated testing**, or collaboration. Drop me an [email](mailto:bsse1027@iit.du.ac.bd).

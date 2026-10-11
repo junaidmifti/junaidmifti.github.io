@@ -29,24 +29,15 @@ author_profile: true
 
 # 🔍 **Research Experience** {#research-experience}
 
-See the [Research page](/research/) for full details.
+Roles below; projects, papers and results are on the **[Research page](/research/)**.
 
-### 🧑‍🔬 **Independent Researcher**  
-💼 **[The University of Alabama](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/)** research collaboration  
-📅 **February 2026 – Present**  
+### 🧑‍🔬 **Independent Researcher** · 📅 February 2026 – Present  
+💼 Research collaboration with **[The University of Alabama](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/)** · Supervised by [Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/)  
+Software security and LLM evaluation: AutoSecuRe (sole researcher) and a paper under review at IEEE TSE.
 
-- **Supervised by**: [Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/), The University of Alabama
-- **AutoSecuRe: Automated Secret Migration and Benchmarking by LLM** (sole researcher; unpublished): an autonomous agent that detects, vaults and refactors away hard-coded secrets, with a benchmark that measures how reliably different LLMs can do it.
-- **Co-author, under review at IEEE TSE** (with researchers at The University of Alabama and Auburn University): statement-level annotated dataset (370 malicious Python packages) and behavioral taxonomy (47 indicators) ([arXiv preprint](https://arxiv.org/pdf/2512.12559)).
-
----
-
-### 🧑‍🏫 **Undergraduate Researcher**  
-💼 **[Distributed Systems & Software Engineering Research Group, University of Dhaka](https://dsse.iit.du.ac.bd/)**  
-📅 **2022**  
-
-- **Supervised by**: Dr. Kazi Muheymin-Us-Sakib
-- Developed **GAnomaly**, an ML-based web application detecting anomalous web traffic in Google Analytics data, using statistical outlier detection and rule-based algorithms.
+### 🧑‍🏫 **Undergraduate Researcher** · 📅 2022  
+💼 **[Distributed Systems & Software Engineering Research Group, University of Dhaka](https://dsse.iit.du.ac.bd/)** · Supervised by Dr. Kazi Muheymin-Us-Sakib  
+Machine-learning anomaly detection for web traffic (GAnomaly).
 
 ---
 

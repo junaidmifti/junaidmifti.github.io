@@ -62,9 +62,6 @@ Existing malicious-package datasets only say *whether* a package is malicious, n
 - Built an ML-based web application combining statistical outlier detection and rule-based algorithms, based on the IEEE paper *“Using Google Analytics to Support Cybersecurity Forensics.”*
 - [📂 Source code](https://github.com/bsse1027/SPL-3)
 
-### Impact of Physical Health on Developer Productivity (GQM)
-Goal–Question–Metric study with 48 software engineers in Bangladesh. [📄 Report](https://github.com/junaidmifti/GQM_Research/blob/main/Final%20Doc.pdf)
-
 ---
 
 ## 🤝 **References**

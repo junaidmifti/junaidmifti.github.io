@@ -13,6 +13,8 @@ author_profile: true
 
 📂 A **directory** is added at the top for easy and convenient navigation to different projects.  
 
+🔬 Research papers and ongoing research (AutoSecuRe, the IEEE TSE paper, GAnomaly) are on the **[Research page](/research/)**.  
+
 📧 **Feel free to email me** if you are trying to replicate one of the projects and struggling — I will do my utmost to help within my limited knowledge! 💡  
 
 > 💧 **"What we know is a drop, what we don't know is an ocean."** 🌊 — Dark (2017)
@@ -21,13 +23,9 @@ author_profile: true
 
 ## 🗂 **Project Directory**
 
-1. 🔧 Tool Implementation & Research Projects
-   - [🔐 AutoSecuRe: Automated Secret Migration and Benchmarking by LLM](#secret-migration-llm)
-   - [🛡️ Malicious Python Package Taxonomy & Dataset](#malicious-python-taxonomy)
-   - [🤖 Automated Community Smell Detection Using In-Context Learning Capabilities of GPT](#automated-community-smell-detection)
+1. 🔧 Software Engineering Tools & Studies
    - [🛠️ Software Metrics: GQM-Based Research](#software-metrics-gqm-details)
    - [📊 Weather and AQI Correlation (LR)](#weather-and-aqi-correlation-details)
-   - [📊 GAnomaly: Anomaly Detection Tool (Rule based + ML)](#ganomaly-anomaly-detection-tool-details)
    - [🔧 Control Flow Graph and Software Metrics](#control-flow-graph-software-metrics-details)
    - [🔬 A Tool for Commit Classification](#commit-classification-tool-details)
    - [📈 Stock Market Prediction (LR)](#stock-market-prediction-details)
@@ -50,29 +48,7 @@ author_profile: true
 
 ---
 
-## 🔧 **Tool Implementation & Research Projects**
-
-### 🔐 AutoSecuRe: Automated Secret Migration and Benchmarking by LLM {#secret-migration-llm}
-🧠 **Description**: Scanners like Gitleaks tell you *where* a secret leaked, but fixing it (provisioning a vault, rewriting the code, keeping the tests green) is still manual work. AutoSecuRe is an autonomous agent that does the whole job, paired with a benchmark that scores LLMs on whether their fixes are correct, complete and structurally sound. Designed and built end to end as a sole researcher, supervised by [Dr. Md Rayhanur Rahman](https://eng.ua.edu/eng-directory/dr-md-rayhanur-rahman/), The University of Alabama.
-
-**Status**: 🚧 Ongoing since February 2026, unpublished (proof of concept complete; benchmark corpus under construction). See the [Research page](/research/) for details.
-
----
-
-### 🛡️ Statement-Level Taxonomy and Dataset of Malicious Python Packages {#malicious-python-taxonomy}
-🧠 **Description**: A statement-level annotated dataset of 370 malicious Python packages (2,962 labeled occurrences), a 47-indicator behavioral taxonomy, taxonomy-guided LLM prompting that improves detection precision by 9% on average, and sequential pattern mining of attack workflows. Under review at IEEE TSE, in collaboration with researchers at The University of Alabama and Auburn University.
-
-🔗 **Links**:  
-- [📄 arXiv Preprint](https://arxiv.org/pdf/2512.12559)
-
----
-
-### 🤖 Automated Community Smell Detection Using In-Context Learning Capabilities of GPT {#automated-community-smell-detection}
-🧠 **Description**: This research paper will be focused on detecting community smells in large-scale software companies or setups, using GPT's in-context learning capabilities. We are eventually eyeing to convert it to a tool as a "Community Smell Detector". The work is currently ongoing, and further details will be added soon. Stay tuned for updates!
-
-**Status**: Coming soon...
-
----
+## 🔧 **Software Engineering Tools & Studies**
 
 ### 🛠️ Software Metrics: GQM-Based Research {#software-metrics-gqm-details}
 📊 **Description**: A research project titled **"Impact of Physical Health and Daily Habits on Developer Productivity"** using the **Goal Question Metric (GQM)** paradigm to evaluate the effectiveness of various software development processes. This study is based on the GQM methodology first proposed by Victor Basili in his paper *"The GQM Paradigm"*, which is widely used in software metrics research. The data was taken by questionnaire in google forms, from 48 Software Engineers of different designation in different companies of Bangladesh.
@@ -92,17 +68,6 @@ author_profile: true
 | [📄 View Report](https://github.com/junaidmifti/Weather-and-AQI-dataset-of-Chittagong/blob/main/Report_Group_9_%201010_1011_1021_1027.pdf)
 
 ---
-
-### 📊 GAnomaly: Anomaly Detection Tool {#ganomaly-anomaly-detection-tool-details}
-💼 **Description**: A hybrid rule-based and machine learning anomaly detection tool (web app) for Google Analytics traffic. This project references the paper **"“Using google analytics to support cybersecurity forensics" - a paper published in 2017 USA IEEE International Conference on Big Data**.
-
-**Languages/Frameworks**: Python, Flask, Typescript, Pickle
-
-🔗 **Links**:  
-- [📂 View Source Code](https://github.com/bsse1027/SPL-3)
-
----
-
 
 ### 🔧 Control Flow Graph and Software Metrics {#control-flow-graph-software-metrics-details}
 🧮 **Description**: This tool generates a **Control Flow Graph (CFG)** to evaluate software metrics like **Halstead Complexity Measures** and **Lines of Code (LOC)**, which are essential in assessing software quality.
