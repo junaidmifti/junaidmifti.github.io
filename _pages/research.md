@@ -62,6 +62,13 @@ Existing malicious-package datasets only say *whether* a package is malicious, n
 - Built an ML-based web application combining statistical outlier detection and rule-based algorithms, based on the IEEE paper *“Using Google Analytics to Support Cybersecurity Forensics.”*
 - [📂 Source code](https://github.com/bsse1027/SPL-3)
 
+### Software Metrics: GQM-Based Research
+📅 **2021** · Course research project · *Impact of Physical Health and Daily Habits on Developer Productivity*
+
+- Used the **Goal Question Metric (GQM)** paradigm, first proposed by Victor Basili in *"The GQM Paradigm"* and widely used in software metrics research, to evaluate the effectiveness of various software development processes.
+- Collected data through a Google Forms questionnaire from **48 software engineers** of different designations at different companies in Bangladesh.
+- [📄 View report](https://github.com/junaidmifti/GQM_Research/blob/main/Final%20Doc.pdf)
+
 ---
 
 ## 🤝 **References**

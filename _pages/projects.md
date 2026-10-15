@@ -13,7 +13,7 @@ author_profile: true
 
 📂 A **directory** is added at the top for easy and convenient navigation to different projects.  
 
-🔬 Research papers and ongoing research (AutoSecuRe, the IEEE TSE paper, GAnomaly) are on the **[Research page](/research/)**.  
+🔬 Research papers and ongoing research (AutoSecuRe, the IEEE TSE paper, GAnomaly, the GQM study) are on the **[Research page](/research/)**.  
 
 📧 **Feel free to email me** if you are trying to replicate one of the projects and struggling — I will do my utmost to help within my limited knowledge! 💡  
 
@@ -24,7 +24,6 @@ author_profile: true
 ## 🗂 **Project Directory**
 
 1. 🔧 Software Engineering Tools & Studies
-   - [🛠️ Software Metrics: GQM-Based Research](#software-metrics-gqm-details)
    - [📊 Weather and AQI Correlation (LR)](#weather-and-aqi-correlation-details)
    - [🔧 Control Flow Graph and Software Metrics](#control-flow-graph-software-metrics-details)
    - [🔬 A Tool for Commit Classification](#commit-classification-tool-details)
@@ -49,14 +48,6 @@ author_profile: true
 ---
 
 ## 🔧 **Software Engineering Tools & Studies**
-
-### 🛠️ Software Metrics: GQM-Based Research {#software-metrics-gqm-details}
-📊 **Description**: A research project titled **"Impact of Physical Health and Daily Habits on Developer Productivity"** using the **Goal Question Metric (GQM)** paradigm to evaluate the effectiveness of various software development processes. This study is based on the GQM methodology first proposed by Victor Basili in his paper *"The GQM Paradigm"*, which is widely used in software metrics research. The data was taken by questionnaire in google forms, from 48 Software Engineers of different designation in different companies of Bangladesh.
-
-🔗 **Links**:  
-- [📄 View Report](https://github.com/junaidmifti/GQM_Research/blob/main/Final%20Doc.pdf)
-
----
 
 ### 📊 Weather and AQI Correlation (Linear Regression) {#weather-and-aqi-correlation-details}
 🌦️ **Description**: **Linear Regression** is used to explore the relationship between weather conditions and Air Quality Index (AQI) in the context of Chittagong, Bangladesh. A distinct AQI + Weather parameter dataset was extracted by logically merging different relative datasets. 
