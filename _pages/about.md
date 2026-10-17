@@ -41,9 +41,10 @@ Alongside this, I do research at the intersection of **software security** and *
 |---|---|
 | 🏢 **Now** | **Senior Software Engineer, Ding** (Aug 2026 – present): technical lead and team co-supervisor, mentoring, third-party integrations, legacy .NET modernization |
 | 🛠️ **Experience** | 3+ years in industry (Junior SWE May 2023 – Aug 2026), plus a Samsung R&D internship |
-| 🎓 **Education** | B.Sc. Software Engineering, University of Dhaka |
+| 🎓 **Education** | B.Sc. Software Engineering, University of Dhaka; joint 1st by semester GPA in Semesters 6, 7 & 8 |
 | 📄 **Publication** | 1 manuscript under review at IEEE TSE |
 | 🗣️ **IELTS** | 8.0 overall (Academic) |
+| 🏆 **Award** | Best Engineering Team (company-wide), Ding, H1 2026, won by my team, Integrations |
 | 🥇 **Competition** | Top 20 of 234 teams, National Cyber Drill CTF |
 
 ☕ Happy to chat about **software security, AI for SE, automated testing**, or collaboration. Drop me an [email](mailto:bsse1027@iit.du.ac.bd).

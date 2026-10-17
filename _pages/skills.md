@@ -66,7 +66,12 @@ author_profile: true
 
 ---
 
-## 🏆 **Competitions**
+## 🏆 **Awards & Competitions**
+
+- 🏅 **Best Engineering Team, Ding** – (*H1 2026*)  
+  *Company-wide award*  
+  Won by my team, **Integrations**, for the first half of 2026.
+
 
 - 🛡️ **National Cyber Drill by BGD e-Gov CIRT** – (*2020*)  
   *Capture the Flag (CTF) Competition*  
@@ -76,9 +81,6 @@ author_profile: true
 - 💻 **Samsung SWC Advance Test** – (*Feb 2023*)  
   *3-hour Algorithmic Problem Solving Test*  
   **Samsung Software Competency Test (SWC) Advanced** is a rigorous coding assessment that evaluates problem-solving skills. It covers data structures, algorithms, dynamic programming, and graph-based challenges. Successfully passed the test aimed at recruitment for Samsung R&D team.
-
-
-- 🎓 **Government Scholarships** – Higher Secondary (*2017*) and Secondary Certificate (*2015*) examinations.
 
 
 - 🧪 **Bangladesh Physics Olympiad by BDPhO, Sylhet** – (*2012*)  

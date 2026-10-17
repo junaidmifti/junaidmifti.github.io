@@ -14,7 +14,7 @@ author_profile: true
 
 ### **B.Sc. in _Software Engineering_** · 📅 2018 – 2022  
 📍 **[Institute of Information Technology, University of Dhaka](http://www.iit.du.ac.bd/)**  
-**CGPA 3.58 / 4.00** · **3.98 / 4.00 over the last 2 years**
+**CGPA 3.58 / 4.00** · **3.98 / 4.00 over the last 2 years** · 🥇 **Joint 1st** by semester GPA in Semesters **6, 7 & 8**
 
 | Focus | Notable courses |
 |---|---|
